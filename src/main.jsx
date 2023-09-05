@@ -9,7 +9,6 @@ widgetDivs.forEach(div => {
     ReactDOM.render(
       <React.StrictMode>
         <App symbol={div.dataset.symbol}/>
-      </React.StrictMode>,
-        div
+      </React.StrictMode>
     );
 });
