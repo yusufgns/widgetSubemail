@@ -6,4 +6,4 @@ function Test() {
   );
 }
 
-export default App;
+export default Test;
