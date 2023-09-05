@@ -7,9 +7,8 @@ const widgetDivs = document.querySelectorAll('.nicoraynaud-finance-widget');
 
 widgetDivs.forEach(div => {
     ReactDOM.render(
-      <React.StrictMode>
+      <React.StrictMode >
         <App/>
-        ASDADSDAS
       </React.StrictMode>
     );
 });

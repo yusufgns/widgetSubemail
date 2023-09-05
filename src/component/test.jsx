@@ -1,7 +1,7 @@
 function Test() {
   return (
     <div>
-      TEST WIDGET Comp
+      TEST
     </div>
   );
 }
