@@ -1,8 +1,23 @@
-# React + Vite
+# React + Vite + Widget
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A widget developed with Vite.
 
-Currently, two official plugins are available:
+If you want to create widgets for your projects, it's easy with vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+After forking this repo, all you have to do is deploy it.
+
+```sh
+git clone https://github.com/yusufgns/widgetSubemail
+```
+
+```sh
+cd widgetSubemail
+```
+
+```sh
+npm install
+```
+
+```sh
+npm build:widget
+```
