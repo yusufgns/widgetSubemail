@@ -8,7 +8,7 @@ const widgetDivs = document.querySelectorAll('.nicoraynaud-finance-widget');
 widgetDivs.forEach(div => {
     ReactDOM.render(
       <React.StrictMode>
-        <App symbol={div.dataset.symbol}/>
+        <App/>
         ASDADSDAS
       </React.StrictMode>
     );
