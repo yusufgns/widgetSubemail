@@ -3,7 +3,7 @@ import StockQuote from "./component/test";
 function App() {
   return (
     <div>
-      <StockQuote />
+      TESTER WIDGET
     </div>
   );
 }
